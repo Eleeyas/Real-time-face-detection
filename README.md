@@ -1,5 +1,5 @@
 # Rial-face-detector
-Install:
+#Install:
 Python 2.7.X
 OpenCV 3
 Dlib
